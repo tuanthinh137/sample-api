@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "Hart Navy",
+      "price": "100000",
+      "description": "Hart Navy Shoe",
+      "id": "861510439"
+    },
+    {
+      "name": "Dustin Black",
+      "price": "200000",
+      "description": "Dustin Black Shoe",
+      "id": "107493218"
+    },
+    {
+      "name": "WOODLAND",
+      "price": "300000",
+      "description": "WOODLAND Shoe",
+      "id": "962104831"
+    },
+    {
+      "name": "Iphone 12",
+      "price": "150000",
+      "description": "Thông tin chi tiết sản phẩm Iphone 12",
+      "id": "145293810"
+    }
+  ],
+  "users": [
+    {
+      "id": "381476210",
+      "name": "Administrator",
+      "email": "admin@gmail.com",
+      "password": 123456
+    }
+  ]
+}
